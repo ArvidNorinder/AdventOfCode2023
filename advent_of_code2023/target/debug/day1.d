@@ -1,0 +1,1 @@
+C:\Users\Arvid\OneDrive\Skrivbord\Kodprojekt\AdventOfCode2023\advent_of_code2023\target\debug\day1.exe: C:\Users\Arvid\OneDrive\Skrivbord\Kodprojekt\AdventOfCode2023\advent_of_code2023\src\bin\day1.rs
